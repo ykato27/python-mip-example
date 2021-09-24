@@ -1,6 +1,6 @@
-# python-template-repository
+# python-mip-example
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+数理最適化（混合整数最適化）ソルバー（付きインターフェース） Python-MIP のexample リポジトリです。
 
 ## リポジトリ構成
 
