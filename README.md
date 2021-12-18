@@ -33,13 +33,13 @@
 
 ## 環境構築
 
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-mip-example）
 
 ```
-cd Desktop/python-template-repository
+cd Desktop/python-mip-example
 ```
 
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+- Dockerによる環境構築（フォルダをマウント：Desktop/python-mip-example）
 
 ```
 docker-compose up --build
